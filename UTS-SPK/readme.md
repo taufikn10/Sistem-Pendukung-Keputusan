@@ -17,7 +17,7 @@ unutk perancangan UML disini saya menggunakan Use Case Diagram
 
 2. Desain Database
 sebelum mendesain database saya melalukan percangan terlebih dahulu
-![rancangan_database](https://user-images.githubusercontent.com/56226681/138852651-56bd5a7d-233b-4488-9799-d7dc2d6d53b3.png)
+![rancangan_database](https://user-images.githubusercontent.com/56226681/138852651-56bd5a7d-233b-4488-9799-d7dc2d6d53b3.png) <br>
 lalu desain
 ![desain_database](https://user-images.githubusercontent.com/56226681/138852853-3aafda8a-7676-4fbb-88e1-148bd2301c84.png)
 
